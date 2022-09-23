@@ -83,6 +83,10 @@ h2 {
     text-align: center;
 }
 
+form {
+    padding: .75rem 2rem;
+}
+
 .no-list {
     margin-bottom: 50px;
 }
