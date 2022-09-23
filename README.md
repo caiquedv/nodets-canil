@@ -9,3 +9,6 @@ Projeto feito no módulo do curso Node + Typescript
 
 ### Para rodar o projeto
 `npm run nodemon`
+
+### Ver Deploy
+[Heroku](https://pacific-reef-00915.herokuapp.com/)
